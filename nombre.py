@@ -1,3 +1,4 @@
+print("Calcul")
 a = 10
 b = 2
 s = a + b
